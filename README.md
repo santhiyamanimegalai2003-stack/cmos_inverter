@@ -1,6 +1,6 @@
 # cmos_inverter
-## REG NUM :
-## NAME :
+## REG NUM :25014334
+## NAME :SANTHIYA B
 ## EXPERIMENT 2.a Design CMOS inverter and transient and OP analysis
 
 ## Aim: To Design CMOS inverter and transient and OP analysis.
@@ -52,6 +52,7 @@ When simulation finishes, the transient automatically will be popped up along fi
  
 ## Waveforms:
 
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/ac8e0787-ba2e-423a-a1f9-7b65c10d23d3" />
 
 ## RESULTS:
 Design of CMOS inverter and transient performed and output waveforms are obtained.
